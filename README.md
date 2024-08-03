@@ -18,7 +18,6 @@ Quero cadastrar cursos para poder gerenciar e disponibilizar opções de aprendi
   - Tipo de curso
   - Numero de vagas
 
-- **Upload de Materiais:** O cliente deve poder fazer o upload de materiais relacionados ao curso, como apostilas e vídeos.
 
 - **Validação de Dados:** O sistema deve validar os dados inseridos (ex: título não pode estar em branco, numero de vagas).
 
