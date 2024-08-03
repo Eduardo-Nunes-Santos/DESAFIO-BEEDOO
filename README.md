@@ -13,7 +13,6 @@ Quero cadastrar cursos para poder gerenciar e disponibilizar opções de aprendi
   - Descrição
   - Nome do instrutor
   - URL da imagem capa
-  - Categoria
   - Duração
   - Tipo de curso
   - Numero de vagas
