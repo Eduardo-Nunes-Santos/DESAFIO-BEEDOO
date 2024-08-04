@@ -26,7 +26,7 @@ Quero cadastrar cursos para poder gerenciar e disponibilizar opções de aprendi
 
 
 
-# Evidencias 
+# Evidências 
 https://drive.google.com/drive/folders/1Mia05m98Wo78P1reTzppiSgR8OjUQ3Rt?usp=drive_link
 
 
